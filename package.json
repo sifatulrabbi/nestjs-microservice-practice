@@ -1,0 +1,12 @@
+{
+  "name": "microservice-practice",
+  "version": "1.0.0",
+  "description": "Microservice practice with Nest.Js",
+  "main": "index.js",
+  "repository": "https://github.com/sifatulrabbi/microservice-practice",
+  "author": "Md Sifatul Islam Rabbi (https://github.com/sifatulrabbi)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "workspaces": ["apps/*"]
+}

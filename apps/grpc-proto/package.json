@@ -1,0 +1,8 @@
+{
+  "name": "grpc-proto",
+  "version": "1.0.0",
+  "description": "Prototype for the gRPC",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
